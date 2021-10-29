@@ -1,0 +1,2 @@
+# imageHost
+For PicGo
